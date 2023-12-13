@@ -188,10 +188,6 @@ Blog
 Contact
 
 
-# contacto
-
-Contacto
-
 Contact Form
 
 Full name
