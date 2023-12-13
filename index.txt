@@ -48,7 +48,7 @@ Contiene un resumen introductorio explicando las principales técnicas de los al
 
 alt = Web development icon
 Ejemplos
-Ejemplos sencillos de implementaciones de las principales téncias de algoritmos cuánticos
+Ejemplos sencillos de implementaciones de las principales téncias de algorítmos cuánticos.
 
 ## testimonials
 
