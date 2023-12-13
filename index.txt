@@ -26,9 +26,9 @@ Portfolio
 Blog
 Contact
 
-# Tutorials
+# about
 
-Tutorials
+about me
 
 This repository has been depeloped by tree working groups:
 Fault-tolerant Algorithms Group: Focused on algorithms such as Shor or Grover, i.e. the most "classical" algorithms of quantum computing. The are also the ones that require fault-tolerant machines.
