@@ -43,12 +43,12 @@ El grupo de algoritmos cuánticos variacionales VQE (Variational Quantum Eigenso
 What it contains
 
 alt = design icon
-Sumary of main algortihms 
-Containing theory and .
+Tutorial de técnicas principales de algoritmos cuánticos
+Contiene un resumen introductorio explicando las principales técnicas de los algoritmos cuánticos.
 
 alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+Ejemplos
+Ejemplos sencillos de implementaciones de las principales téncias de algoritmos cuánticos
 
 
 ## testimonials
