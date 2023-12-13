@@ -26,17 +26,14 @@ Portfolio
 Blog
 Contact
 
-# about
+# Tutorials
 
 Tutorials
 
 This repository has been depeloped by tree working groups:
-
-    Fault-tolerant Algorithms Group: Focused on algorithms such as Shor or Grover, i.e. the most "classical" algorithms of quantum computing. The are also the ones that require fault-tolerant machines.
-
-    QML (Quantum Machine Learning) Group: Focused on algorithms that combine quantum computation with machine learning.
-
-    VQE (Variational Quantum Eigensolover) Group: Focused on VQE algorithms for finding the eigenvalues of an operator
+Fault-tolerant Algorithms Group: Focused on algorithms such as Shor or Grover, i.e. the most "classical" algorithms of quantum computing. The are also the ones that require fault-tolerant machines.
+QML (Quantum Machine Learning) Group: Focused on algorithms that combine quantum computation with machine learning.
+VQE (Variational Quantum Eigensolover) Group: Focused on VQE algorithms for finding the eigenvalues of an operator
 
 
 
