@@ -20,10 +20,10 @@ Sacramento, California, USA
 
 # navbar
 
-About
-Resume
-Portfolio
+Contenido
 QLM
+Fault tolerant
+VQE
 Contact
 
 # about
