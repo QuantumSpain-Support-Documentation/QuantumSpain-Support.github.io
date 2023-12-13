@@ -30,7 +30,8 @@ Contact
 
 about me
 
-Hemos preparado para ti un tutorial sobre los principales algortimos cuánticos con ejemplos desarollados en Qibo y Qiskit. Para esto hemos creado un repositorio desarrollado por tres grupos de trabajo de los tecnicos de Quantum Spain que se dividen por tipo de técnica de algoritmo:
+Hemos preparado para ti un tutorial sobre los principales algortimos cuánticos con ejemplos desarollados en Qibo y Qiskit. 
+Para esto hemos creado un repositorio desarrollado por tres grupos de trabajo de los tecnicos de Quantum Spain que se dividen por tipo de técnica de algoritmo:
 El grupo de algoritmos Fault-tolerant: Enfocado en algortimos como Shor o Grover, que son los algorithmos "clásicos" de la computación cuántica. También estan los que requieren maquinas fault-tolerant.
 El grupo de algortimos de Aprendizaje de maquina cuánticos QML (Quantum Machine Learning): Enfocados en algoritmos que combinan la computación cuantica con las técnicas de aprendizaje de máquina.
 El grupo de algoritmos cuánticos variacionales VQE (Variational Quantum Eigensolover): Enfocado en los algoritmos VQE para encontrar los eigenvalores de un operador.
