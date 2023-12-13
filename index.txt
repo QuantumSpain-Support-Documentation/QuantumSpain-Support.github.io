@@ -25,6 +25,7 @@ QLM
 Fault tolerant
 VQE
 Contact
+Contacto
 
 # contenido
 
@@ -185,6 +186,18 @@ Blog
 # contact
 
 Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
+
+# contacto
+
+Contacto
 
 Contact Form
 
