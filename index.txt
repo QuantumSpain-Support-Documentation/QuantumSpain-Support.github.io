@@ -187,13 +187,6 @@ Blog
 
 Contact
 
-Contact Form
-
-Full name
-Email address
-Your Message
-
-Send Message
 
 # contacto
 
