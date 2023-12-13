@@ -40,7 +40,7 @@ El grupo de algoritmos cuánticos variacionales VQE (Variational Quantum Eigenso
 
 ## service
 
-What it contains
+What i'm doing
 
 alt = design icon
 Tutorial de técnicas principales de algoritmos cuánticos
