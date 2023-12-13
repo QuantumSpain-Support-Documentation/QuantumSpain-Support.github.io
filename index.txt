@@ -50,7 +50,6 @@ alt = Web development icon
 Ejemplos
 Ejemplos sencillos de implementaciones de las principales téncias de algoritmos cuánticos
 
-
 ## testimonials
 
 Testimonials
