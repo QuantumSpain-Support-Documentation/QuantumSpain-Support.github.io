@@ -54,7 +54,7 @@ Ejemplos sencillos de implementaciones de las principales téncias de algorítmo
 
 Testimonials
 
-alt = Daniel lewis
+alt = Carlos Luque
 Carlos Luque
 Ténico de Quantum Spain IAC
 alt = Jessica miller
