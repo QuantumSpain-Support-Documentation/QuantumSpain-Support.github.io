@@ -29,7 +29,7 @@ Contacto
 
 # contenido
 
-about me
+contenido me
 
 Hemos preparado para ti un tutorial sobre los principales algortimos cuánticos con ejemplos desarollados en Qibo y Qiskit. 
 Para esto hemos creado un repositorio desarrollado por tres grupos de trabajo de los tecnicos de Quantum Spain que se dividen por tipo de técnica de algoritmo:
